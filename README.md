@@ -18,7 +18,7 @@ SQL Server
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/dharma-dx/SampleDotnetCoreWebAPI.git
 cd your-repo-name
 Install the required NuGet packages:
 
